@@ -1,0 +1,3 @@
+[submodule "subsub"]
+	path = subsub
+	url = git@github.com:atroxaper-jb/subsub.git
